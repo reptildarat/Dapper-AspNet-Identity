@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Identity.Dapper", "AspNet.Identity.Dapper\AspNet.Identity.Dapper.csproj", "{0741C0C3-5036-45B2-89B6-B28519A0E957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Identity.Dapper.SqlServer.Tests", "AspNet.Identity.Dapper.SqlServer.Tests\AspNet.Identity.Dapper.SqlServer.Tests.csproj", "{1F28EEF4-EF3B-42EE-BCC4-937702AD665D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Identity.Dapper.Console", "AspNet.Identity.Dapper.Console\AspNet.Identity.Dapper.Console.csproj", "{3E774312-C38B-4403-AE09-CD8557410169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlExtensions.Tests", "SqlExtensions.Tests\SqlExtensions.Tests.csproj", "{DEC69EC6-5101-40AD-B4A8-90AF7DD1E625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0741C0C3-5036-45B2-89B6-B28519A0E957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0741C0C3-5036-45B2-89B6-B28519A0E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0741C0C3-5036-45B2-89B6-B28519A0E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0741C0C3-5036-45B2-89B6-B28519A0E957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F28EEF4-EF3B-42EE-BCC4-937702AD665D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F28EEF4-EF3B-42EE-BCC4-937702AD665D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F28EEF4-EF3B-42EE-BCC4-937702AD665D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F28EEF4-EF3B-42EE-BCC4-937702AD665D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E774312-C38B-4403-AE09-CD8557410169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E774312-C38B-4403-AE09-CD8557410169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E774312-C38B-4403-AE09-CD8557410169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E774312-C38B-4403-AE09-CD8557410169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC69EC6-5101-40AD-B4A8-90AF7DD1E625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC69EC6-5101-40AD-B4A8-90AF7DD1E625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC69EC6-5101-40AD-B4A8-90AF7DD1E625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC69EC6-5101-40AD-B4A8-90AF7DD1E625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
